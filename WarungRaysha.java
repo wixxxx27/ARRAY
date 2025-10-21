@@ -14,7 +14,7 @@ public class WarungRaysha {
         int[] jumlahBayar = new int[10];
 
         System.out.println("=================");
-        System.out.println(" TOKO NYA RAYSHA ");
+        System.out.println("  WARUNG RAYSHA  ");
         System.out.println("=================");
         System.out.print("Masukkan Item Barang : ");
         int n = input.nextInt();
@@ -68,4 +68,5 @@ public class WarungRaysha {
         System.out.println("-------------------------------------------------------------------------------");
     }
 }
+
 
