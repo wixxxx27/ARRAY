@@ -52,7 +52,7 @@ public class WarungRaysha {
         
         System.out.println();
         System.out.println("===============================================================================");
-        System.out.println("------------------------------TOKO NYA RAYSHA----------------------------------");
+        System.out.println("----------------------------WARUNG NYA RAYSHA----------------------------------");
         System.out.println("===============================================================================");
         System.out.println("No\tKode Barang\tNama Barang\tHarga\tJumlah Beli\tJumlah Bayar");
         System.out.println("===============================================================================");
@@ -68,5 +68,6 @@ public class WarungRaysha {
         System.out.println("-------------------------------------------------------------------------------");
     }
 }
+
 
 
