@@ -2,7 +2,7 @@ package ARRAY;
 
 import java.util.Scanner;
 
-public class TokoSerbaAda {
+public class WarungRaysha {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -68,3 +68,4 @@ public class TokoSerbaAda {
         System.out.println("-------------------------------------------------------------------------------");
     }
 }
+
